@@ -1,0 +1,6 @@
+{
+  "name": "Sports Tournament and Sponsorship Management",
+  "description": "A comprehensive, multi-role platform to manage sports events, team registrations, player participation, match schedules, sponsorship offers, and live result standings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
